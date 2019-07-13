@@ -1,9 +1,3 @@
-const express = require('express');
-
-const app = new express();
-
-app.get('/', (req, res) => {
-  res.sendFile(__dirname + '/index.html');
-});
-
-app.listen(3000, () => console.log('Listening on http://localhost:3000'));
+const svg = d3.select('svg');
+svg.style('background-color', 'red');
+svg.style('box-shadow', '10px 10px 3px lightgray');

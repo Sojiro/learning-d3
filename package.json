@@ -4,7 +4,7 @@
   "description": "Learning d3 in detail with the help of freecodecamp.org",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
