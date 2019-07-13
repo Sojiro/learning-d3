@@ -1,0 +1,26 @@
+{
+  "name": "learn-d3",
+  "version": "1.0.0",
+  "description": "Learning d3 in detail with the help of freecodecamp.org",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Sojiro/learning-d3.git"
+  },
+  "keywords": [
+    "d3",
+    "javascript",
+    "ES6",
+    "Data",
+    "Visualization"
+  ],
+  "author": "sojiro@ashokma.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Sojiro/learning-d3/issues"
+  },
+  "homepage": "https://github.com/Sojiro/learning-d3#readme"
+}
