@@ -24,6 +24,6 @@
   },
   "homepage": "https://github.com/Sojiro/learning-d3#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   }
 }
